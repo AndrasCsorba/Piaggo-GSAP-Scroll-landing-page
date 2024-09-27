@@ -54,3 +54,29 @@ ul {
   -webkit-clip-path: url("#wrapMask");
           clip-path: url("#wrapMask");
 }
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 4;
+  width: 100%;
+  padding: 1.5em;
+  display: grid;
+  grid-template-columns: 1fr 16%;
+}
+.header svg {
+  width: 18px;
+  stroke: #f0f0f0;
+  stroke-width: 2;
+  fill: none;
+  stroke-linecap: round;
+}
+.header svg:nth-child(1) {
+  transform: rotateZ(90deg);
+}
+.header div {
+  text-align: right;
+}
+.header div svg {
+  margin-left: 20px;
+}
