@@ -14,7 +14,7 @@ ScrollTrigger.create({
   pin: true,
   start: "top top",
   end: "+=5700"
-});//trogger
+});//trigger
 
 gsap.set(".specs", {
   x: -160,
