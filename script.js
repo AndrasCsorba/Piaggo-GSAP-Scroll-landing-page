@@ -42,7 +42,7 @@ part4_tl.set(".chars dd", {
   opacity: 0
 });
 
-// TIMELINE: Intro
+// TIMELINE: Intro first
 intro_tl
   .fromTo(
     "#wrapWin",
