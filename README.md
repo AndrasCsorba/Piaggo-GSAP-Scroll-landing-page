@@ -1,6 +1,6 @@
 
 
-Scroll GSAP Piaggio Website! 
+Scroll GSAP Piaggio Landing Page! 
 Just Desktop version, becouse the GSAP amination.
 LIVE DEMO ==>>https://andrascsorba.github.io/Piaggo-GSAP-Scroll-landing-page/
 
@@ -50,13 +50,8 @@ Ensure all files are in the same directory.
 
 Install Required Resources:
 
-Fonts:
-
-The project uses Bebas Neue and Oswald fonts from Google Fonts. To install these fonts:
-Go to the Google Fonts website.
-Search for "Bebas Neue" and "Oswald".
-Download the fonts, extract the files, and place them in a fonts directory inside your project folder.
 Update the style.css file if necessary to point to the downloaded fonts (e.g., @font-face with src: url('/fonts/FontName.woff2');).
+
 Images: The project references specific images:
 
 Piaggio logo (piaggio-logo.svg): This image is hosted externally, but you can download it from Piaggio’s official site or an authorized logo source.
@@ -64,6 +59,7 @@ Liberty 150 image (liberty-150.png): Also hosted externally. To use it locally:
 Download the image.
 Place it in a folder named images within your project directory.
 Update the image paths in index.html to reflect the local directory.
+
 Run: Open index.html in a modern web browser.
 
 Prerequisites
