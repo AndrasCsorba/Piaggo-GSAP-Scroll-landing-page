@@ -2,7 +2,7 @@
 
 Scroll GSAP Piaggio Website! 
 Just Desktop version, becouse the GSAP amination.
-LIVE DEMO ==>>
+LIVE DEMO ==>>https://andrascsorba.github.io/Piaggo-GSAP-Scroll-landing-page/
 
 Overview:
 
