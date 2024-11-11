@@ -23,7 +23,7 @@ index.html
 The HTML structure includes:
 
 Header: SVG icons for styling and branding.
-Panel: Displays the Piaggio Liberty 150 model with details and rotating view.
+Panel: Displays the Piaggio Liberty 150 modell with details and rotating view.
 Specifications and Characteristics: Lists displaying model features.
 Outro: Concludes with pricing and a "Learn More" button.
 style.css
@@ -44,13 +44,11 @@ Each timeline controls animations based on scroll position, creating an interact
 Installation and Usage
 To view and interact with this project:
 
-Download or clone the repository to your local machine.
+Download or clone the repository to your local machine or live demo.
 
 Ensure all files are in the same directory.
 
 Install Required Resources:
-
-Update the style.css file if necessary to point to the downloaded fonts (e.g., @font-face with src: url('/fonts/FontName.woff2');).
 
 Images: The project references specific images:
 
