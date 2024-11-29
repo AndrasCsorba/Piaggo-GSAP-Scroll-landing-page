@@ -502,7 +502,7 @@ outro_tl
     opacity: 0
   });
 
-// TIMELINE: Main
+// TIMELINE: Main core theme 
 scene
   .set("#liberty", {
     x: 0
