@@ -6,6 +6,7 @@ LIVE DEMO ==>>https://andrascsorba.github.io/Piaggo-GSAP-Scroll-landing-page/
 
 Overview:
 
+
 The Scroll GSAP Piaggio Website project is an interactive web page showcasing the Piaggio Liberty 150 scooter. Using animations and scroll-based transitions powered by GSAP (GreenSock Animation Platform) and ScrollTrigger, this project offers a visually engaging experience where users can explore the model’s specifications and features as they scroll.
 
 Project Structure
